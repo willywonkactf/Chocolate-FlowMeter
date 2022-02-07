@@ -3,7 +3,7 @@
  */
 
 #include "Arduino.h"
-#include "FlowMeter.h"                                                      // https://github.com/sekdiy/FlowMeter
+#include "FlowMeter.h"                                                      
 #include <math.h>
 
 FlowMeter::FlowMeter(unsigned int pin, FlowSensorProperties prop, void (*callback)(void), uint8_t interruptMode) :
