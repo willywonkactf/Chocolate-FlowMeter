@@ -83,8 +83,8 @@ There's a [complete how-to](https://github.com/sekdiy/FlowMeter/wiki/Calibration
 ## Documentation
 The library source code (in the folder [`src/`](src/)) and the examples (in the folder [`examples/`](examples/)) are fully documented.
 
-Fl4g - Part 1: Steganography Tricks and Tips
+**Fl4g - Part 1: Steganography Tricks and Tips**
 Adding some comments in an image is very useful... :) --> https://exif.tools/
 
-Fl4g - Part 2: MD5 Decrypt Tricks and Tips
+**Fl4g - Part 2: MD5 Decrypt Tricks and Tips**
 Passwords that use the MD5 algorithm are weak --> https://md5decrypt.net/
