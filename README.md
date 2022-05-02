@@ -81,7 +81,10 @@ There's a [complete how-to](https://github.com/sekdiy/FlowMeter/wiki/Calibration
 ![Calibration Example: Irrigation with FS400A](https://github.com/sekdiy/FlowMeter/wiki/images/FS400A-calibration.jpg)
 
 ## Documentation
+The library source code (in the folder [`src/`](src/)) and the examples (in the folder [`examples/`](examples/)) are fully documented.
 
-For further details please take a look at the **FlowMeter** [documentation pages](https://github.com/sekdiy/FlowMeter/wiki).
+## Fl4ag - Part 1: Steganography Tricks and Tips
+Adding some comments in an image is very useful... :) --> https://exif.tools/
 
-Also, the library source code (in the folder [`src/`](src/)) and the examples (in the folder [`examples/`](examples/)) are fully documented.
+## Fl4ag - Part 2: MD5 Decrypt Tricks and Tips
+Passwords that use the MD5 algorithm are weak --> https://md5decrypt.net/
